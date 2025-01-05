@@ -1,0 +1,660 @@
+Base Classifiers: kNN, DecisionTree, SVC
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: kNN, DecisionTree, NearestCentroid
+Accuracy: 0.89 (+/- 0.01)
+
+Base Classifiers: kNN, DecisionTree, LinearDiscriminant
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: kNN, DecisionTree, QuadraticDiscriminant
+Accuracy: 0.89 (+/- 0.01)
+
+Base Classifiers: kNN, DecisionTree, GaussianNB
+Accuracy: 0.88 (+/- 0.01)
+
+Base Classifiers: kNN, DecisionTree, GradientBoosting
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: kNN, DecisionTree, LogisticRegression
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: kNN, DecisionTree, RandomForest
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: kNN, DecisionTree, Bagging
+Accuracy: 0.90 (+/- 0.01)
+
+Base Classifiers: kNN, DecisionTree, AdaBoost
+Accuracy: 0.90 (+/- 0.01)
+
+Base Classifiers: kNN, SVC, NearestCentroid
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: kNN, SVC, LinearDiscriminant
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: kNN, SVC, QuadraticDiscriminant
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: kNN, SVC, GaussianNB
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: kNN, SVC, GradientBoosting
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: kNN, SVC, LogisticRegression
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: kNN, SVC, RandomForest
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: kNN, SVC, Bagging
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: kNN, SVC, AdaBoost
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: kNN, NearestCentroid, LinearDiscriminant
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: kNN, NearestCentroid, QuadraticDiscriminant
+Accuracy: 0.88 (+/- 0.01)
+
+Base Classifiers: kNN, NearestCentroid, GaussianNB
+Accuracy: 0.88 (+/- 0.01)
+
+Base Classifiers: kNN, NearestCentroid, GradientBoosting
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: kNN, NearestCentroid, LogisticRegression
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: kNN, NearestCentroid, RandomForest
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: kNN, NearestCentroid, Bagging
+Accuracy: 0.90 (+/- 0.00)
+
+Base Classifiers: kNN, NearestCentroid, AdaBoost
+Accuracy: 0.90 (+/- 0.01)
+
+Base Classifiers: kNN, LinearDiscriminant, QuadraticDiscriminant
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: kNN, LinearDiscriminant, GaussianNB
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: kNN, LinearDiscriminant, GradientBoosting
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: kNN, LinearDiscriminant, LogisticRegression
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: kNN, LinearDiscriminant, RandomForest
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: kNN, LinearDiscriminant, Bagging
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: kNN, LinearDiscriminant, AdaBoost
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: kNN, QuadraticDiscriminant, GaussianNB
+Accuracy: 0.87 (+/- 0.00)
+
+Base Classifiers: kNN, QuadraticDiscriminant, GradientBoosting
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: kNN, QuadraticDiscriminant, LogisticRegression
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: kNN, QuadraticDiscriminant, RandomForest
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: kNN, QuadraticDiscriminant, Bagging
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: kNN, QuadraticDiscriminant, AdaBoost
+Accuracy: 0.90 (+/- 0.00)
+
+Base Classifiers: kNN, GaussianNB, GradientBoosting
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: kNN, GaussianNB, LogisticRegression
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: kNN, GaussianNB, RandomForest
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: kNN, GaussianNB, Bagging
+Accuracy: 0.90 (+/- 0.00)
+
+Base Classifiers: kNN, GaussianNB, AdaBoost
+Accuracy: 0.90 (+/- 0.00)
+
+Base Classifiers: kNN, GradientBoosting, LogisticRegression
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: kNN, GradientBoosting, RandomForest
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: kNN, GradientBoosting, Bagging
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: kNN, GradientBoosting, AdaBoost
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: kNN, LogisticRegression, RandomForest
+Accuracy: 0.92 (+/- 0.00)
+
+Base Classifiers: kNN, LogisticRegression, Bagging
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: kNN, LogisticRegression, AdaBoost
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: kNN, RandomForest, Bagging
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: kNN, RandomForest, AdaBoost
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: kNN, Bagging, AdaBoost
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: DecisionTree, SVC, NearestCentroid
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: DecisionTree, SVC, LinearDiscriminant
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: DecisionTree, SVC, QuadraticDiscriminant
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: DecisionTree, SVC, GaussianNB
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: DecisionTree, SVC, GradientBoosting
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: DecisionTree, SVC, LogisticRegression
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: DecisionTree, SVC, RandomForest
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: DecisionTree, SVC, Bagging
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: DecisionTree, SVC, AdaBoost
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: DecisionTree, NearestCentroid, LinearDiscriminant
+Accuracy: 0.90 (+/- 0.01)
+
+Base Classifiers: DecisionTree, NearestCentroid, QuadraticDiscriminant
+Accuracy: 0.88 (+/- 0.00)
+
+Base Classifiers: DecisionTree, NearestCentroid, GaussianNB
+Accuracy: 0.88 (+/- 0.01)
+
+Base Classifiers: DecisionTree, NearestCentroid, GradientBoosting
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: DecisionTree, NearestCentroid, LogisticRegression
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: DecisionTree, NearestCentroid, RandomForest
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: DecisionTree, NearestCentroid, Bagging
+Accuracy: 0.90 (+/- 0.00)
+
+Base Classifiers: DecisionTree, NearestCentroid, AdaBoost
+Accuracy: 0.90 (+/- 0.00)
+
+Base Classifiers: DecisionTree, LinearDiscriminant, QuadraticDiscriminant
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: DecisionTree, LinearDiscriminant, GaussianNB
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: DecisionTree, LinearDiscriminant, GradientBoosting
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: DecisionTree, LinearDiscriminant, LogisticRegression
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: DecisionTree, LinearDiscriminant, RandomForest
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: DecisionTree, LinearDiscriminant, Bagging
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: DecisionTree, LinearDiscriminant, AdaBoost
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: DecisionTree, QuadraticDiscriminant, GaussianNB
+Accuracy: 0.88 (+/- 0.02)
+
+Base Classifiers: DecisionTree, QuadraticDiscriminant, GradientBoosting
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: DecisionTree, QuadraticDiscriminant, LogisticRegression
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: DecisionTree, QuadraticDiscriminant, RandomForest
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: DecisionTree, QuadraticDiscriminant, Bagging
+Accuracy: 0.90 (+/- 0.01)
+
+Base Classifiers: DecisionTree, QuadraticDiscriminant, AdaBoost
+Accuracy: 0.90 (+/- 0.01)
+
+Base Classifiers: DecisionTree, GaussianNB, GradientBoosting
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: DecisionTree, GaussianNB, LogisticRegression
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: DecisionTree, GaussianNB, RandomForest
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: DecisionTree, GaussianNB, Bagging
+Accuracy: 0.90 (+/- 0.00)
+
+Base Classifiers: DecisionTree, GaussianNB, AdaBoost
+Accuracy: 0.90 (+/- 0.00)
+
+Base Classifiers: DecisionTree, GradientBoosting, LogisticRegression
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: DecisionTree, GradientBoosting, RandomForest
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: DecisionTree, GradientBoosting, Bagging
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: DecisionTree, GradientBoosting, AdaBoost
+Accuracy: 0.90 (+/- 0.00)
+
+Base Classifiers: DecisionTree, LogisticRegression, RandomForest
+Accuracy: 0.92 (+/- 0.00)
+
+Base Classifiers: DecisionTree, LogisticRegression, Bagging
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: DecisionTree, LogisticRegression, AdaBoost
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: DecisionTree, RandomForest, Bagging
+Accuracy: 0.90 (+/- 0.00)
+
+Base Classifiers: DecisionTree, RandomForest, AdaBoost
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: DecisionTree, Bagging, AdaBoost
+Accuracy: 0.90 (+/- 0.01)
+
+Base Classifiers: SVC, NearestCentroid, LinearDiscriminant
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: SVC, NearestCentroid, QuadraticDiscriminant
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: SVC, NearestCentroid, GaussianNB
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: SVC, NearestCentroid, GradientBoosting
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: SVC, NearestCentroid, LogisticRegression
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: SVC, NearestCentroid, RandomForest
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: SVC, NearestCentroid, Bagging
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: SVC, NearestCentroid, AdaBoost
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: SVC, LinearDiscriminant, QuadraticDiscriminant
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: SVC, LinearDiscriminant, GaussianNB
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: SVC, LinearDiscriminant, GradientBoosting
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: SVC, LinearDiscriminant, LogisticRegression
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: SVC, LinearDiscriminant, RandomForest
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: SVC, LinearDiscriminant, Bagging
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: SVC, LinearDiscriminant, AdaBoost
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: SVC, QuadraticDiscriminant, GaussianNB
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: SVC, QuadraticDiscriminant, GradientBoosting
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: SVC, QuadraticDiscriminant, LogisticRegression
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: SVC, QuadraticDiscriminant, RandomForest
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: SVC, QuadraticDiscriminant, Bagging
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: SVC, QuadraticDiscriminant, AdaBoost
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: SVC, GaussianNB, GradientBoosting
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: SVC, GaussianNB, LogisticRegression
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: SVC, GaussianNB, RandomForest
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: SVC, GaussianNB, Bagging
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: SVC, GaussianNB, AdaBoost
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: SVC, GradientBoosting, LogisticRegression
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: SVC, GradientBoosting, RandomForest
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: SVC, GradientBoosting, Bagging
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: SVC, GradientBoosting, AdaBoost
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: SVC, LogisticRegression, RandomForest
+Accuracy: 0.92 (+/- 0.00)
+
+Base Classifiers: SVC, LogisticRegression, Bagging
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: SVC, LogisticRegression, AdaBoost
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: SVC, RandomForest, Bagging
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: SVC, RandomForest, AdaBoost
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: SVC, Bagging, AdaBoost
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: NearestCentroid, LinearDiscriminant, QuadraticDiscriminant
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: NearestCentroid, LinearDiscriminant, GaussianNB
+Accuracy: 0.90 (+/- 0.01)
+
+Base Classifiers: NearestCentroid, LinearDiscriminant, GradientBoosting
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: NearestCentroid, LinearDiscriminant, LogisticRegression
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: NearestCentroid, LinearDiscriminant, RandomForest
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: NearestCentroid, LinearDiscriminant, Bagging
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: NearestCentroid, LinearDiscriminant, AdaBoost
+Accuracy: 0.90 (+/- 0.00)
+
+Base Classifiers: NearestCentroid, QuadraticDiscriminant, GaussianNB
+Accuracy: 0.87 (+/- 0.01)
+
+Base Classifiers: NearestCentroid, QuadraticDiscriminant, GradientBoosting
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: NearestCentroid, QuadraticDiscriminant, LogisticRegression
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: NearestCentroid, QuadraticDiscriminant, RandomForest
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: NearestCentroid, QuadraticDiscriminant, Bagging
+Accuracy: 0.90 (+/- 0.01)
+
+Base Classifiers: NearestCentroid, QuadraticDiscriminant, AdaBoost
+Accuracy: 0.90 (+/- 0.00)
+
+Base Classifiers: NearestCentroid, GaussianNB, GradientBoosting
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: NearestCentroid, GaussianNB, LogisticRegression
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: NearestCentroid, GaussianNB, RandomForest
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: NearestCentroid, GaussianNB, Bagging
+Accuracy: 0.90 (+/- 0.01)
+
+Base Classifiers: NearestCentroid, GaussianNB, AdaBoost
+Accuracy: 0.89 (+/- 0.00)
+
+Base Classifiers: NearestCentroid, GradientBoosting, LogisticRegression
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: NearestCentroid, GradientBoosting, RandomForest
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: NearestCentroid, GradientBoosting, Bagging
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: NearestCentroid, GradientBoosting, AdaBoost
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: NearestCentroid, LogisticRegression, RandomForest
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: NearestCentroid, LogisticRegression, Bagging
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: NearestCentroid, LogisticRegression, AdaBoost
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: NearestCentroid, RandomForest, Bagging
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: NearestCentroid, RandomForest, AdaBoost
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: NearestCentroid, Bagging, AdaBoost
+Accuracy: 0.90 (+/- 0.01)
+
+Base Classifiers: LinearDiscriminant, QuadraticDiscriminant, GaussianNB
+Accuracy: 0.90 (+/- 0.01)
+
+Base Classifiers: LinearDiscriminant, QuadraticDiscriminant, GradientBoosting
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: LinearDiscriminant, QuadraticDiscriminant, LogisticRegression
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: LinearDiscriminant, QuadraticDiscriminant, RandomForest
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: LinearDiscriminant, QuadraticDiscriminant, Bagging
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: LinearDiscriminant, QuadraticDiscriminant, AdaBoost
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: LinearDiscriminant, GaussianNB, GradientBoosting
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: LinearDiscriminant, GaussianNB, LogisticRegression
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: LinearDiscriminant, GaussianNB, RandomForest
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: LinearDiscriminant, GaussianNB, Bagging
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: LinearDiscriminant, GaussianNB, AdaBoost
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: LinearDiscriminant, GradientBoosting, LogisticRegression
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: LinearDiscriminant, GradientBoosting, RandomForest
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: LinearDiscriminant, GradientBoosting, Bagging
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: LinearDiscriminant, GradientBoosting, AdaBoost
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: LinearDiscriminant, LogisticRegression, RandomForest
+Accuracy: 0.92 (+/- 0.00)
+
+Base Classifiers: LinearDiscriminant, LogisticRegression, Bagging
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: LinearDiscriminant, LogisticRegression, AdaBoost
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: LinearDiscriminant, RandomForest, Bagging
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: LinearDiscriminant, RandomForest, AdaBoost
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: LinearDiscriminant, Bagging, AdaBoost
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: QuadraticDiscriminant, GaussianNB, GradientBoosting
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: QuadraticDiscriminant, GaussianNB, LogisticRegression
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: QuadraticDiscriminant, GaussianNB, RandomForest
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: QuadraticDiscriminant, GaussianNB, Bagging
+Accuracy: 0.89 (+/- 0.01)
+
+Base Classifiers: QuadraticDiscriminant, GaussianNB, AdaBoost
+Accuracy: 0.90 (+/- 0.01)
+
+Base Classifiers: QuadraticDiscriminant, GradientBoosting, LogisticRegression
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: QuadraticDiscriminant, GradientBoosting, RandomForest
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: QuadraticDiscriminant, GradientBoosting, Bagging
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: QuadraticDiscriminant, GradientBoosting, AdaBoost
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: QuadraticDiscriminant, LogisticRegression, RandomForest
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: QuadraticDiscriminant, LogisticRegression, Bagging
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: QuadraticDiscriminant, LogisticRegression, AdaBoost
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: QuadraticDiscriminant, RandomForest, Bagging
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: QuadraticDiscriminant, RandomForest, AdaBoost
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: QuadraticDiscriminant, Bagging, AdaBoost
+Accuracy: 0.90 (+/- 0.00)
+
+Base Classifiers: GaussianNB, GradientBoosting, LogisticRegression
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: GaussianNB, GradientBoosting, RandomForest
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: GaussianNB, GradientBoosting, Bagging
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: GaussianNB, GradientBoosting, AdaBoost
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: GaussianNB, LogisticRegression, RandomForest
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: GaussianNB, LogisticRegression, Bagging
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: GaussianNB, LogisticRegression, AdaBoost
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: GaussianNB, RandomForest, Bagging
+Accuracy: 0.90 (+/- 0.00)
+
+Base Classifiers: GaussianNB, RandomForest, AdaBoost
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: GaussianNB, Bagging, AdaBoost
+Accuracy: 0.90 (+/- 0.01)
+
+Base Classifiers: GradientBoosting, LogisticRegression, RandomForest
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: GradientBoosting, LogisticRegression, Bagging
+Accuracy: 0.92 (+/- 0.00)
+
+Base Classifiers: GradientBoosting, LogisticRegression, AdaBoost
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: GradientBoosting, RandomForest, Bagging
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: GradientBoosting, RandomForest, AdaBoost
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: GradientBoosting, Bagging, AdaBoost
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: LogisticRegression, RandomForest, Bagging
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: LogisticRegression, RandomForest, AdaBoost
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: LogisticRegression, Bagging, AdaBoost
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: RandomForest, Bagging, AdaBoost
+Accuracy: 0.91 (+/- 0.01)
+
