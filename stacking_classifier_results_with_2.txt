@@ -1,0 +1,459 @@
+Base Classifiers: LogisticRegression, RidgeClassifier
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: LogisticRegression, LinearDiscriminantAnalysis
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: LogisticRegression, ShrinkageLDA
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: LogisticRegression, QuadraticDiscriminantAnalysis
+Accuracy: 0.94 (+/- 0.01)
+
+Base Classifiers: LogisticRegression, RegularizedQDA
+Accuracy: 0.94 (+/- 0.01)
+
+Base Classifiers: LogisticRegression, LinearSVC
+Accuracy: 0.94 (+/- 0.01)
+
+Base Classifiers: LogisticRegression, SVC_rbf
+Accuracy: 0.95 (+/- 0.00)
+
+Base Classifiers: LogisticRegression, HingeSGDClassifier
+Accuracy: 0.94 (+/- 0.01)
+
+Base Classifiers: LogisticRegression, LogLossSGDClassifier
+Accuracy: 0.94 (+/- 0.01)
+
+Base Classifiers: LogisticRegression, PolynomialSGDClassifier
+Accuracy: 0.94 (+/- 0.01)
+
+Base Classifiers: LogisticRegression, GaussianNB
+Accuracy: 0.94 (+/- 0.01)
+
+Base Classifiers: LogisticRegression, DecisionTreeClassifier
+Accuracy: 0.94 (+/- 0.01)
+
+Base Classifiers: LogisticRegression, FullDecisionTreeClassifier
+Accuracy: 0.94 (+/- 0.01)
+
+Base Classifiers: LogisticRegression, RandomForestClassifier
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: LogisticRegression, KNeighborsClassifier
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: LogisticRegression, BaggingClassifier
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: LogisticRegression, AdaBoostClassifier
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: RidgeClassifier, LinearDiscriminantAnalysis
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: RidgeClassifier, ShrinkageLDA
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: RidgeClassifier, QuadraticDiscriminantAnalysis
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: RidgeClassifier, RegularizedQDA
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: RidgeClassifier, LinearSVC
+Accuracy: 0.94 (+/- 0.01)
+
+Base Classifiers: RidgeClassifier, SVC_rbf
+Accuracy: 0.95 (+/- 0.00)
+
+Base Classifiers: RidgeClassifier, HingeSGDClassifier
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: RidgeClassifier, LogLossSGDClassifier
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: RidgeClassifier, PolynomialSGDClassifier
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: RidgeClassifier, GaussianNB
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: RidgeClassifier, DecisionTreeClassifier
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: RidgeClassifier, FullDecisionTreeClassifier
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: RidgeClassifier, RandomForestClassifier
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: RidgeClassifier, KNeighborsClassifier
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: RidgeClassifier, BaggingClassifier
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: RidgeClassifier, AdaBoostClassifier
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: LinearDiscriminantAnalysis, ShrinkageLDA
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: LinearDiscriminantAnalysis, QuadraticDiscriminantAnalysis
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: LinearDiscriminantAnalysis, RegularizedQDA
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: LinearDiscriminantAnalysis, LinearSVC
+Accuracy: 0.94 (+/- 0.01)
+
+Base Classifiers: LinearDiscriminantAnalysis, SVC_rbf
+Accuracy: 0.95 (+/- 0.00)
+
+Base Classifiers: LinearDiscriminantAnalysis, HingeSGDClassifier
+Accuracy: 0.93 (+/- 0.01)
+
+Base Classifiers: LinearDiscriminantAnalysis, LogLossSGDClassifier
+Accuracy: 0.94 (+/- 0.01)
+
+Base Classifiers: LinearDiscriminantAnalysis, PolynomialSGDClassifier
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: LinearDiscriminantAnalysis, GaussianNB
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: LinearDiscriminantAnalysis, DecisionTreeClassifier
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: LinearDiscriminantAnalysis, FullDecisionTreeClassifier
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: LinearDiscriminantAnalysis, RandomForestClassifier
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: LinearDiscriminantAnalysis, KNeighborsClassifier
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: LinearDiscriminantAnalysis, BaggingClassifier
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: LinearDiscriminantAnalysis, AdaBoostClassifier
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: ShrinkageLDA, QuadraticDiscriminantAnalysis
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: ShrinkageLDA, RegularizedQDA
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: ShrinkageLDA, LinearSVC
+Accuracy: 0.94 (+/- 0.01)
+
+Base Classifiers: ShrinkageLDA, SVC_rbf
+Accuracy: 0.95 (+/- 0.00)
+
+Base Classifiers: ShrinkageLDA, HingeSGDClassifier
+Accuracy: 0.94 (+/- 0.01)
+
+Base Classifiers: ShrinkageLDA, LogLossSGDClassifier
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: ShrinkageLDA, PolynomialSGDClassifier
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: ShrinkageLDA, GaussianNB
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: ShrinkageLDA, DecisionTreeClassifier
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: ShrinkageLDA, FullDecisionTreeClassifier
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: ShrinkageLDA, RandomForestClassifier
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: ShrinkageLDA, KNeighborsClassifier
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: ShrinkageLDA, BaggingClassifier
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: ShrinkageLDA, AdaBoostClassifier
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: QuadraticDiscriminantAnalysis, RegularizedQDA
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: QuadraticDiscriminantAnalysis, LinearSVC
+Accuracy: 0.94 (+/- 0.01)
+
+Base Classifiers: QuadraticDiscriminantAnalysis, SVC_rbf
+Accuracy: 0.95 (+/- 0.00)
+
+Base Classifiers: QuadraticDiscriminantAnalysis, HingeSGDClassifier
+Accuracy: 0.92 (+/- 0.01)
+
+Base Classifiers: QuadraticDiscriminantAnalysis, LogLossSGDClassifier
+Accuracy: 0.93 (+/- 0.01)
+
+Base Classifiers: QuadraticDiscriminantAnalysis, PolynomialSGDClassifier
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: QuadraticDiscriminantAnalysis, GaussianNB
+Accuracy: 0.90 (+/- 0.00)
+
+Base Classifiers: QuadraticDiscriminantAnalysis, DecisionTreeClassifier
+Accuracy: 0.92 (+/- 0.00)
+
+Base Classifiers: QuadraticDiscriminantAnalysis, FullDecisionTreeClassifier
+Accuracy: 0.92 (+/- 0.00)
+
+Base Classifiers: QuadraticDiscriminantAnalysis, RandomForestClassifier
+Accuracy: 0.93 (+/- 0.00)
+
+Base Classifiers: QuadraticDiscriminantAnalysis, KNeighborsClassifier
+Accuracy: 0.92 (+/- 0.00)
+
+Base Classifiers: QuadraticDiscriminantAnalysis, BaggingClassifier
+Accuracy: 0.92 (+/- 0.01)
+
+Base Classifiers: QuadraticDiscriminantAnalysis, AdaBoostClassifier
+Accuracy: 0.93 (+/- 0.00)
+
+Base Classifiers: RegularizedQDA, LinearSVC
+Accuracy: 0.94 (+/- 0.01)
+
+Base Classifiers: RegularizedQDA, SVC_rbf
+Accuracy: 0.95 (+/- 0.00)
+
+Base Classifiers: RegularizedQDA, HingeSGDClassifier
+Accuracy: 0.92 (+/- 0.02)
+
+Base Classifiers: RegularizedQDA, LogLossSGDClassifier
+Accuracy: 0.93 (+/- 0.00)
+
+Base Classifiers: RegularizedQDA, PolynomialSGDClassifier
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: RegularizedQDA, GaussianNB
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: RegularizedQDA, DecisionTreeClassifier
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: RegularizedQDA, FullDecisionTreeClassifier
+Accuracy: 0.91 (+/- 0.01)
+
+Base Classifiers: RegularizedQDA, RandomForestClassifier
+Accuracy: 0.93 (+/- 0.00)
+
+Base Classifiers: RegularizedQDA, KNeighborsClassifier
+Accuracy: 0.92 (+/- 0.00)
+
+Base Classifiers: RegularizedQDA, BaggingClassifier
+Accuracy: 0.93 (+/- 0.01)
+
+Base Classifiers: RegularizedQDA, AdaBoostClassifier
+Accuracy: 0.93 (+/- 0.00)
+
+Base Classifiers: LinearSVC, SVC_rbf
+Accuracy: 0.95 (+/- 0.00)
+
+Base Classifiers: LinearSVC, HingeSGDClassifier
+Accuracy: 0.94 (+/- 0.01)
+
+Base Classifiers: LinearSVC, LogLossSGDClassifier
+Accuracy: 0.94 (+/- 0.01)
+
+Base Classifiers: LinearSVC, PolynomialSGDClassifier
+Accuracy: 0.94 (+/- 0.01)
+
+Base Classifiers: LinearSVC, GaussianNB
+Accuracy: 0.94 (+/- 0.01)
+
+Base Classifiers: LinearSVC, DecisionTreeClassifier
+Accuracy: 0.94 (+/- 0.01)
+
+Base Classifiers: LinearSVC, FullDecisionTreeClassifier
+Accuracy: 0.94 (+/- 0.01)
+
+Base Classifiers: LinearSVC, RandomForestClassifier
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: LinearSVC, KNeighborsClassifier
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: LinearSVC, BaggingClassifier
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: LinearSVC, AdaBoostClassifier
+Accuracy: 0.94 (+/- 0.01)
+
+Base Classifiers: SVC_rbf, HingeSGDClassifier
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: SVC_rbf, LogLossSGDClassifier
+Accuracy: 0.95 (+/- 0.00)
+
+Base Classifiers: SVC_rbf, PolynomialSGDClassifier
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: SVC_rbf, GaussianNB
+Accuracy: 0.95 (+/- 0.00)
+
+Base Classifiers: SVC_rbf, DecisionTreeClassifier
+Accuracy: 0.95 (+/- 0.00)
+
+Base Classifiers: SVC_rbf, FullDecisionTreeClassifier
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: SVC_rbf, RandomForestClassifier
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: SVC_rbf, KNeighborsClassifier
+Accuracy: 0.95 (+/- 0.00)
+
+Base Classifiers: SVC_rbf, BaggingClassifier
+Accuracy: 0.95 (+/- 0.00)
+
+Base Classifiers: SVC_rbf, AdaBoostClassifier
+Accuracy: 0.95 (+/- 0.00)
+
+Base Classifiers: HingeSGDClassifier, LogLossSGDClassifier
+Accuracy: 0.94 (+/- 0.01)
+
+Base Classifiers: HingeSGDClassifier, PolynomialSGDClassifier
+Accuracy: 0.93 (+/- 0.01)
+
+Base Classifiers: HingeSGDClassifier, GaussianNB
+Accuracy: 0.92 (+/- 0.01)
+
+Base Classifiers: HingeSGDClassifier, DecisionTreeClassifier
+Accuracy: 0.92 (+/- 0.01)
+
+Base Classifiers: HingeSGDClassifier, FullDecisionTreeClassifier
+Accuracy: 0.93 (+/- 0.01)
+
+Base Classifiers: HingeSGDClassifier, RandomForestClassifier
+Accuracy: 0.94 (+/- 0.01)
+
+Base Classifiers: HingeSGDClassifier, KNeighborsClassifier
+Accuracy: 0.93 (+/- 0.00)
+
+Base Classifiers: HingeSGDClassifier, BaggingClassifier
+Accuracy: 0.93 (+/- 0.01)
+
+Base Classifiers: HingeSGDClassifier, AdaBoostClassifier
+Accuracy: 0.93 (+/- 0.00)
+
+Base Classifiers: LogLossSGDClassifier, PolynomialSGDClassifier
+Accuracy: 0.93 (+/- 0.00)
+
+Base Classifiers: LogLossSGDClassifier, GaussianNB
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: LogLossSGDClassifier, DecisionTreeClassifier
+Accuracy: 0.93 (+/- 0.00)
+
+Base Classifiers: LogLossSGDClassifier, FullDecisionTreeClassifier
+Accuracy: 0.93 (+/- 0.01)
+
+Base Classifiers: LogLossSGDClassifier, RandomForestClassifier
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: LogLossSGDClassifier, KNeighborsClassifier
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: LogLossSGDClassifier, BaggingClassifier
+Accuracy: 0.94 (+/- 0.01)
+
+Base Classifiers: LogLossSGDClassifier, AdaBoostClassifier
+Accuracy: 0.93 (+/- 0.01)
+
+Base Classifiers: PolynomialSGDClassifier, GaussianNB
+Accuracy: 0.90 (+/- 0.01)
+
+Base Classifiers: PolynomialSGDClassifier, DecisionTreeClassifier
+Accuracy: 0.89 (+/- 0.01)
+
+Base Classifiers: PolynomialSGDClassifier, FullDecisionTreeClassifier
+Accuracy: 0.90 (+/- 0.02)
+
+Base Classifiers: PolynomialSGDClassifier, RandomForestClassifier
+Accuracy: 0.94 (+/- 0.00)
+
+Base Classifiers: PolynomialSGDClassifier, KNeighborsClassifier
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: PolynomialSGDClassifier, BaggingClassifier
+Accuracy: 0.92 (+/- 0.01)
+
+Base Classifiers: PolynomialSGDClassifier, AdaBoostClassifier
+Accuracy: 0.93 (+/- 0.01)
+
+Base Classifiers: GaussianNB, DecisionTreeClassifier
+Accuracy: 0.89 (+/- 0.00)
+
+Base Classifiers: GaussianNB, FullDecisionTreeClassifier
+Accuracy: 0.90 (+/- 0.01)
+
+Base Classifiers: GaussianNB, RandomForestClassifier
+Accuracy: 0.93 (+/- 0.00)
+
+Base Classifiers: GaussianNB, KNeighborsClassifier
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: GaussianNB, BaggingClassifier
+Accuracy: 0.92 (+/- 0.01)
+
+Base Classifiers: GaussianNB, AdaBoostClassifier
+Accuracy: 0.92 (+/- 0.00)
+
+Base Classifiers: DecisionTreeClassifier, FullDecisionTreeClassifier
+Accuracy: 0.85 (+/- 0.02)
+
+Base Classifiers: DecisionTreeClassifier, RandomForestClassifier
+Accuracy: 0.93 (+/- 0.00)
+
+Base Classifiers: DecisionTreeClassifier, KNeighborsClassifier
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: DecisionTreeClassifier, BaggingClassifier
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: DecisionTreeClassifier, AdaBoostClassifier
+Accuracy: 0.92 (+/- 0.00)
+
+Base Classifiers: FullDecisionTreeClassifier, RandomForestClassifier
+Accuracy: 0.93 (+/- 0.00)
+
+Base Classifiers: FullDecisionTreeClassifier, KNeighborsClassifier
+Accuracy: 0.91 (+/- 0.00)
+
+Base Classifiers: FullDecisionTreeClassifier, BaggingClassifier
+Accuracy: 0.92 (+/- 0.01)
+
+Base Classifiers: FullDecisionTreeClassifier, AdaBoostClassifier
+Accuracy: 0.93 (+/- 0.01)
+
+Base Classifiers: RandomForestClassifier, KNeighborsClassifier
+Accuracy: 0.93 (+/- 0.00)
+
+Base Classifiers: RandomForestClassifier, BaggingClassifier
+Accuracy: 0.93 (+/- 0.00)
+
+Base Classifiers: RandomForestClassifier, AdaBoostClassifier
+Accuracy: 0.93 (+/- 0.00)
+
+Base Classifiers: KNeighborsClassifier, BaggingClassifier
+Accuracy: 0.92 (+/- 0.00)
+
+Base Classifiers: KNeighborsClassifier, AdaBoostClassifier
+Accuracy: 0.93 (+/- 0.00)
+
+Base Classifiers: BaggingClassifier, AdaBoostClassifier
+Accuracy: 0.93 (+/- 0.01)
+
